@@ -12,7 +12,6 @@ $fontColor: #4c4c4c;
  h1 {
     color: $baseColor;
     font-size: 5rem;
-
 }
 
 /* Base
@@ -94,7 +93,6 @@ section h2
     @include flex-direction(column);   // スキルボックスを縦に並べる
     display: -webkit-flex;
 
-    
   }
   h2 {
     color: $baseColor;
